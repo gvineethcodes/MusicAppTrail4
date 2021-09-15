@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bible Speaks</string>
+    <string name="nextButton">next</string>
+    <string name="playButton">play</string>
+    <string name="prev">prev</string>
+    <string name="text">Automatically Read bible chapter at 4–7am and 5–10pm</string>
+</resources>
